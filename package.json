@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-clock",
+  "name": "wdd330-vanilla-clock",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -9,5 +9,7 @@
   },
   "devDependencies": {
     "vite": "^5.4.10"
-  }
+  },
+  "author": "Vicente Ferrer",
+  "license": "ISC"
 }
